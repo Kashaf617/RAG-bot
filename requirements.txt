@@ -1,4 +1,10 @@
 streamlit
-llama-index
-qdrant-client
-Pillow
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+langchain-groq
+pypdf
+docx2txt
+sentence-transformers
