@@ -8,3 +8,4 @@ langchain-groq
 pypdf
 docx2txt
 sentence-transformers
+chromadb
